@@ -1,8 +1,3 @@
----
-
-
----
-
 <h3 id="introduction-🇵🇹">Introduction 🇵🇹</h3>
 <p>Hi there, I’m from Portugal! I’m still learning Computer Science and Engineering. I have been developing some projects and I’ve been working with programming languages since 2018.</p>
 <h3 id="📈-some-statistics">📈 Some Statistics</h3>
