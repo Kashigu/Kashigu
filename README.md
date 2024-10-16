@@ -16,11 +16,12 @@
 <br />     
 
 ## 📈 Some Statistics
-<div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kashigu&show_icons=true&theme=tokyonight" alt="Kashigu's github stats"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak">
-</div>
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=Kashigu&show_icons=true&theme=tokyonight" alt="Kashigu's github stats"><br>
+#
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"><br>
+#
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak">
+#
 
 ## 📞 Contact Me
 <a href="https://www.linkedin.com/in/orlando-lopes-1a08a4330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orlando-lopes-1a08a4330/" height="30" width="40" /></a>
