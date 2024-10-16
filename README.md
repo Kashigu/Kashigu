@@ -20,11 +20,11 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Kashigu&show_icons=true&theme=tokyonight" alt="Kashigu's github stats"><br>
 </p>
-#
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"><br>
 </p>
-#
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak">
 </p>
