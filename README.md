@@ -17,13 +17,11 @@
 
 ## 📈 Some Statistics
 
-<div style="margin-left: 20%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kashigu&show_icons=true&theme=tokyonight" alt="Kashigu's github stats"><br>
-  #
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"><br>
-  #
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak">
-</div>
+<img style="display: block; margin-left: 20%;" src="https://github-readme-stats.vercel.app/api?username=Kashigu&show_icons=true&theme=tokyonight" alt="Kashigu's github stats"><br>
+#
+<img style="display: block; margin-left: 20%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"><br>
+#
+<img style="display: block; margin-left: 20%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak">
 
 
 ## 📞 Contact Me
