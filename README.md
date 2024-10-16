@@ -5,3 +5,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&amp;theme=tokyonight&amp;layout=compact" alt="Kashigu's Top Langs"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&amp;theme=tokyonight" alt="mystreak"></p>
 
+
+## 📞Contact Me
+<a href="https://www.linkedin.com/in/orlando-lopes-1a08a4330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orlando-lopes-1a08a4330/" height="30" width="40" /></a>
