@@ -28,7 +28,8 @@
 </p>
 
 <p align="center">
-  [![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/project/79a198e2-a710-4b6d-a720-cc0b15807ced.svg)](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/project/79a198e2-a710-4b6d-a720-cc0b15807ced)
+     ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kasshigu&theme=tokyonight&layout=compact)    
+     [![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)
 </p>
 
 <p align="center">
