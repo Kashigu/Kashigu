@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-    <img src="https://wakatime.com/share/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/948d4276-3264-4796-ac71-13453bd592cc.svg" alt="mystreak">
+   <embed src="https://wakatime.com/share/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/20dc2d35-f7ba-4b5e-9b1f-0876471c641a.svg"></embed>
 </p>
 
 <p align="center">
