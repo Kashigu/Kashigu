@@ -28,6 +28,10 @@
 </p>
 
 <p align="center">
+    <img src="https://wakatime.com/share/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/948d4276-3264-4796-ac71-13453bd592cc.svg" alt="mystreak">
+</p>
+
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak">
 </p>
 
