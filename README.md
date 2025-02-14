@@ -28,10 +28,9 @@
 </p>
 
 <p align="center">
-     ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kasshigu&theme=tokyonight&layout=compact)    
      [![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)
 </p>
-
+[![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak">
 </p>
