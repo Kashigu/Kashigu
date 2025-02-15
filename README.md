@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"/><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=pie" alt="Kashigu's Top Langs"/><br>
 </p>
 <!--
 <p align="center">
