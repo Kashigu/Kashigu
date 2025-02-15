@@ -27,7 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"><br>
 </p>
 <p align="center">
-      <img src="https://wakatime.com/share/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/56cc2e0c-c1b4-42fe-8875-221570df1bfd.svg" alt="Kashigu's % Langs"> <br>
+      <img src="https://wakatime.com/share/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/8c107bcc-37ef-4d61-87fc-35b8e3a27d5e.svg" alt="Kashigu's % Langs" style="height:300px"> <br>
 </p>
 
 <p align="center">
