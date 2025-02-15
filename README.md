@@ -27,7 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"><br>
 </p>
 <p align="center">
-     ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kashigu&theme=tokyonight&layout=compact) 
+      <img src="https://wakatime.com/share/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/56cc2e0c-c1b4-42fe-8875-221570df1bfd.svg" alt="Kashigu's % Langs"> <br>
 </p>
 
 <p align="center">
