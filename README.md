@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-     [![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)
+     [[![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)
 </p>
 
 ## 📞 Contact Me
