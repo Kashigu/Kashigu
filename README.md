@@ -20,22 +20,23 @@
 ## 📈 Some Statistics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kashigu&show_icons=true&theme=tokyonight" alt="Kashigu's github stats"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kashigu&show_icons=true&theme=tokyonight" alt="Kashigu's github stats"/><br>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact" alt="Kashigu's Top Langs"/><br>
 </p>
 <!--
 <p align="center">
       <img src="https://wakatime.com/share/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72/8c107bcc-37ef-4d61-87fc-35b8e3a27d5e.svg" alt="Kashigu's % Langs" style="height:500px; width: 600px"> <br>
 </p>
 -->
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kashigu)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kashigu&theme=tokyonight&layout=compact)
+</p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak"/>
 </p>
 
 <p align="center">
