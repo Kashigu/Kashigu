@@ -35,8 +35,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak"/>
 </p>
 
+<p align="center">
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a5104b80-fe5e-4c46-aca9-d9ec81fb3e72&theme=tokyonight&layout=compact)
-
+</p>
 
 [![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)
 
