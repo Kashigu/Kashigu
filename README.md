@@ -39,9 +39,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashigu&theme=tokyonight" alt="mystreak"/>
 </p>
 
-<p align="center">
-     [![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)
-</p>
+[![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)
+
 
 ## 📞 Contact Me
 <a href="https://www.linkedin.com/in/orlando-lopes-1a08a4330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orlando-lopes-1a08a4330/" height="30" width="40" /></a>
