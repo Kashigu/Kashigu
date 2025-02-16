@@ -36,7 +36,7 @@
 </p>
 
 <div align="center">
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a5104b80-fe5e-4c46-aca9-d9ec81fb3e72&theme=tokyonight&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a5104b80-fe5e-4c46-aca9-d9ec81fb3e72&theme=tokyonight&layout=compact" alt="Harlok's WakaTime stats"/>
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/a5104b80-fe5e-4c46-aca9-d9ec81fb3e72.svg)](https://wakatime.com/@a5104b80-fe5e-4c46-aca9-d9ec81fb3e72)
