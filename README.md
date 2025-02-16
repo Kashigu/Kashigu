@@ -33,7 +33,7 @@
 -->
 
 <p align="center">
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a5104b80-fe5e-4c46-aca9-d9ec81fb3e72&theme=tokyonight&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=a5104b80-fe5e-4c46-aca9-d9ec81fb3e72&theme=tokyonight&layout=compact)
 </p>
 
 <p align="center">
