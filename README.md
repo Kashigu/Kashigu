@@ -33,7 +33,7 @@
 -->
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a5104b80-fe5e-4c46-aca9-d9ec81fb3e72&theme=tokyonight&layout=compact" alt="Harlok's WakaTime stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a5104b80-fe5e-4c46-aca9-d9ec81fb3e72&theme=tokyonight&layout=compact" alt="Harlok's WakaTime stats"/><br>
 </div>
 
 <p align="center">
