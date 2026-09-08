@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=pie" alt="Kashigu's Top Langs"/><br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kashigu&theme=tokyonight&layout=compact&langs_count=10&v=4" alt="Kashigu's Top Langs"/><br>
 </p>
 
 <p align="center">
